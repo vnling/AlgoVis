@@ -1,6 +1,6 @@
 # AlgoVis
 A visualization of Dijkstra's Algorithm implemented as a pathfinder.  
-LINK: https://mjvar.github.io/Pathfinding-Algorithm-Visualizer.github.io/
+LINK: https://vnling.github.io/AlgoVis/
 
 Instructions:  
 Click and drag on start node (red) and end node (orange) to move  
